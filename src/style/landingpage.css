@@ -1,0 +1,35 @@
+.beranda {
+  height: 100vh;
+  background-image: url(../asets/bg.jpg);
+  background-size: cover;
+}
+
+/*bagian trending*/
+
+.trending {
+  height: auto;
+  background-image: url(../asets/bgtrending.jpg);
+  background-size: auto;
+}
+.film-trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#img {
+  width: 14rem;
+  height: 11rem;
+  object-fit: cover;
+  margin-left: -1px;
+  margin-top: -1px;
+}
+
+.tombol {
+  margin-left: 40px;
+}
+
+.text {
+  font-size: 14px;
+}

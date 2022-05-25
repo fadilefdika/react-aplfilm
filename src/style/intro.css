@@ -1,0 +1,14 @@
+.intro {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.btn {
+  font-size: 12.5px;
+}
